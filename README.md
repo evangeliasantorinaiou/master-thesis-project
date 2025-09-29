@@ -1,6 +1,6 @@
 #  Master's Thesis Project  
-**Predicting Mental Health Risks in Video Gamers : A Comparative study of Machine Learning, Deep Learning, and Feature Engineering Technoques**  
-*Tilburg University, MSc Data Science and Society*  
+**Predicting Mental Health Risks in Video Gamers : A Comparative study of Machine Learning, Deep Learning, and Feature Engineering Techniques**  
+*Tilburg University, MSc Data Science and Society, June 2025*  
 
 ---
 
